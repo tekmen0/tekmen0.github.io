@@ -2,5 +2,5 @@
 
 TODO:
   * add summary decription about myself
-  * add resume
+  * [DONE] add resume
   * add blogs
